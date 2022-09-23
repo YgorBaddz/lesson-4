@@ -54,12 +54,20 @@ body {
     background: #000;
     color: #fff;
     cursor: pointer;
+    border: 1px solid rgb(76, 76, 76);
+    transition: all ease 0.4s;
+}
+
+.textForFrstSctn .button-price button:hover {
+    background: #fff;
+    color: #000;
+
 }
 
 .textForFrstSctn .button-price .price {
     width: 143px;
     height: 82px;
-    background: #fff;
+    background: #FFFFFF;
     justify-content: center;
     align-items: center;
     display: flex;
