@@ -23,30 +23,30 @@ body {
     padding: 4px 240px 133px 176px;
 }
 
-.textForFrstSctn .creator{
+.creator{
     margin-bottom: 2rem;
     font-size: 24px;
     font-weight: 300;
 }
 
-.textForFrstSctn h1 {
+h1 {
     margin-bottom: 2rem;
     font-size: 250px;
     font-weight: 300;
 }
 
-.textForFrstSctn .pForFrstSctn {
+.pForFrstSctn {
     margin-bottom: 2rem;
     font-size: 32px;
     font-weight: 300;
     line-height: 155%;
 }
 
-.textForFrstSctn .button-price {
+.button-price {
     display: flex;
 }
 
-.textForFrstSctn .button-price button {
+.button-price button {
     margin-bottom: 2rem;
     padding: 25px 65px 25px 65px;
     font-size: 32px;
@@ -58,12 +58,12 @@ body {
     transition: all ease 0.4s;
 }
 
-.textForFrstSctn .button-price button:hover {
+.button-price button:hover {
     background: #fff;
     color: #000;
 }
 
-.textForFrstSctn .button-price .price {
+.button-price .price {
     width: 143px;
     height: 82px;
     background: #FFFFFF;
